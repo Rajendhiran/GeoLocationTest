@@ -12,6 +12,7 @@ public class MasterApplication extends Application {
 
     private static MasterApplication masterApplication;
     private RequestQueue mRequestQueue;
+    public String Test="Tester";
 
     @Override
     public void onCreate() {
